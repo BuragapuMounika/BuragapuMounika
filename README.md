@@ -17,7 +17,7 @@
       <h3>👩‍💻 About Me:</h3>
       <ul>
         <li>🌱 Currently learning <b>AI & ML</b></li>
-        <li>💬 Ask me about <b>Data Science, Java, and Backend Development</b></li>
+        <li>💬 Ask me about <b>Data Science, Java, and Softeware Development</b></li>
         <li>📫 Reach me at <b>mounikaharika5@gmail.com</b></li>
         <li>⚡ Fun fact: <b>I am crazy about coding!</b></li>
       </ul>

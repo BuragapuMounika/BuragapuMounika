@@ -2,7 +2,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s" alt="MasterHead">
 </p>
 
-<h1 align="center">Hi there! I'm Mounika Buragapu</h1>
+<h1 align="center">Hi 👋 there! I'm Mounika </h1>
 <h3 align="center">🚀 Programmer | Continuous Learner | Innovator</h3>
 
 <p align="center"> 
